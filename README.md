@@ -28,7 +28,7 @@ This project analyzes the global spread and impact of COVID-19 using data from [
 ## 🚀 How to Run the Project
 
 1. **Clone or download the project folder**
-2. Place `owid-covid-data.csv` in the same directory
+2. Place `owid-covid-data(1).csv` in the same directory
 3. Open `PythonFinal.ipynb` in **JupyterLab**
 4. Run all cells sequentially to generate:
    - Time series plots for cases, deaths, and vaccinations
@@ -44,7 +44,7 @@ pip install pandas matplotlib seaborn plotly
 
 
 📁 Project Files
-owid-covid-data.csv — data source
+owid-covid-data (1).csv — data source
 
 PythonFinal.ipynb — notebook with analysis & visuals
 
